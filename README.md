@@ -1,4 +1,4 @@
-<h1 align="center">spatular</h1>
+<h1 align="center">🍽️ Spatular</h1>
 <p align="center">
   <a href="https://crates.io/crates/spatular">
     <img alt="Crates.io" src="https://img.shields.io/crates/v/spatular.svg" />
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  spatular is a project that still needs to be described.
+  A type system for recipes
 </p>
 
 ## 🚀 Installation
