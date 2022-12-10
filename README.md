@@ -1,4 +1,4 @@
-<h1 align="center">🍽️ Spatular</h1>
+<h1 align="center">Spatular</h1>
 <p align="center">
   <a href="https://crates.io/crates/spatular">
     <img alt="Crates.io" src="https://img.shields.io/crates/v/spatular.svg" />
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  A type system for recipes
+  🍽️ A type system for recipes
 </p>
 
 ## 🚀 Installation
