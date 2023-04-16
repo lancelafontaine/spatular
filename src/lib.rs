@@ -1,7 +1,5 @@
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-        assert_eq!(2 + 2, 4);
-    }
-}
+#![allow(dead_code)]
+
+pub type Result<T> = anyhow::Result<T>;
+
+pub mod models;
